@@ -1,18 +1,5 @@
-# Object files
-*.o
-*.ko
+#include <stdio.h>
 
-# Libraries
-*.lib
-*.a
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
+main(char * argv[], int argc){
+  printf("Taylor I love you and want to touch your penis");
+};
